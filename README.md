@@ -1,5 +1,1 @@
-# NetBeans
-
-**/nbproject/
-**/.nb-gradle/
-**/build/
+# Ejercicios - Java 🚀
