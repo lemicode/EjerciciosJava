@@ -21,4 +21,4 @@
         - [Vectores - Recorrido y Carga](fundamentos/arrays%20-%20vectores%20y%20matrices//VectoresRecorridoYCarga/)
         - [Matrices - Declaración y Asignación](fundamentos/arrays%20-%20vectores%20y%20matrices//MatricesDeclaracionYAsignacion/)
         - [Matrices - Recorrido y Carga](fundamentos/arrays%20-%20vectores%20y%20matrices//MatricesRecorridoYCarga/)
-    - [Modelo de Capas + IGU (GUI)](fundamentos/modelo%20de%20capas%20+%20igu/)
+    - [Modelo de Capas + IGU (GUI)](fundamentos/modelo%20de%20capas/)
