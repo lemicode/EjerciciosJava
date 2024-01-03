@@ -10,7 +10,7 @@
         - [Ejercicio 1](fundamentos/tipos%20de%20datos%20y%20variables/Ejercicio1/)
     - [Estructuras Selectivas (Condicionales)](fundamentos/estructuras%20selectivas%20(Condicionales)/)
         - [Condición IF](fundamentos/estructuras%20selectivas%20(Condicionales)/CondicionalIF)
-        - [Condición SWITCH](fundamentos/estructuras%20selectivas%20(Condicionales)/CondicionaSWITCH)
+        - [Condición SWITCH](fundamentos/estructuras%20selectivas%20(Condicionales)/CondicionalSWITCH)
         - [Operador Ternario](fundamentos/estructuras%20selectivas%20(Condicionales)/OperadorTernario)
         - [Ejercicio 1](fundamentos/estructuras%20selectivas%20(Condicionales)/Ejercicio1)
     - [Estructuras Repetitivas](fundamentos/estructuras%20repetitivas/)
